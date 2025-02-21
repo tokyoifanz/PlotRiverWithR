@@ -106,7 +106,7 @@ get_river_map <- function() {
             y = "", subtitle = "",
             x = "",
             title = "River of Europe",
-            caption = "Ploting River with R Programming"
+            caption = "Source: World Wildlife Fund, inc. (2006-2013) HydroSHEDS database http://www.hydrosheds.org"
         ) +
         scale_color_manual(
             name = "",
